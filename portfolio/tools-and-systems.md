@@ -4,10 +4,13 @@
 
 **Claude Code** -- my main tool for data analysis, reporting, automation, and AI-assisted work. Connected to:
 - **mssql MCP server** -- direct SQL queries against our data warehouse (Windows Auth, local sessions only)
+- **HubSpot MCP** -- live CRM access for campaign attribution, contact lookups, workflow diagnosis
 - **Obsidian MCP** -- vault management, note capture, knowledge graph
 - **Google Workspace CLI** -- email, calendar, Drive operations
 - **Filesystem MCP** -- file operations across local and Drive paths
 - **Meta Ads / Google Ads / GA4 / GSC MCP servers** -- campaign management and analytics
+- **Comet bridge / OpenCLI** -- authenticated-Chrome browser automation for paywall research and live web sessions
+- **Outlook (COM)** -- direct read/draft via the local desktop app (faster and unbounded vs. Zapier round-trips)
 
 ## Data Sources
 
@@ -18,7 +21,7 @@
 | Google Analytics 4 | Website traffic, ecommerce conversions, user behavior | GA4 MCP or web UI |
 | Google Ads | Paid search campaigns, performance data | Google Ads MCP or web UI |
 | Meta Ads | Facebook/Instagram ad campaigns, lead gen | Meta Ads MCP or web UI |
-| HubSpot | CRM, some marketing automation | Web UI (less frequent) |
+| HubSpot | CRM, campaigns, workflows, contact-level identification | HubSpot MCP (preferred), web UI |
 | TRERC | Texas real estate/housing activity data (Comal County) | Playwright automation, monthly export |
 
 ## Other Daily Tools

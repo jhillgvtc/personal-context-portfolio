@@ -38,6 +38,24 @@
 
 **Why:** When someone says they're good at everything, they're usually average. I'd rather have one vendor that's excellent at one thing than one that's mediocre at three. And if they underperform, I can cut them without disrupting other channels.
 
+### Save Rate -- Walked Back from 85-99% to 40-55% (2026-04-27)
+
+**Situation:** Computed call center disconnect-call save rate at 85-99% from a HubSpot/DW phone bridge. Looked great. Was on the way to JB.
+
+**What I did:** Pushed back on my own number. Bet next month's mortgage that retention performance was much worse.
+
+**Why it was wrong:** The phone-bridge view filters out disconnected customers' phones. The matched cohort is by construction the non-churners -- the calc was tautological. Cross-checked against actual residential disconnect counts (3,694 in 2024, 4,036 in 2025, +9.3% YoY). Realistic save rate is 22-67%, most likely 40-55%.
+
+**What I learned:** Audit the filter before auditing the rate. "Save rate" computed from a view that silently excludes the population you're measuring is confidently wrong, not usefully imprecise. Walked back the prior bound entirely -- would have been unflattering to Brandy's team the moment anyone looked at actual disconnect numbers.
+
+### Operating Model v1 + Analyst Role (2026-04-27)
+
+**Situation:** Director-track narrative is "AI capability nobody else delivers." That same capability has zero redundancy -- if I'm out, the work stops.
+
+**What I decided:** The Director scope-case AND the single-point-of-failure problem are the same problem. Externalizing tacit work into a person-agnostic archive IS the Director scope-case. Built v1 of the Operating Model today using the work-operating-model skill (5 layers, 21 entries, 6 contradictions). Quarterly rerun fires Jul 6 -- v1 to v2 diff is the actual promotion-evidence artifact.
+
+**Why:** Career pulse came in at 7.0/10. Two structural gaps (People Leadership 4/10, Visibility) both close with one move: proposing the analyst role + archive to JB.
+
 ### Going All-In on Claude Code
 
 **Situation:** Was building dashboards and reports in Power BI (DAX + SQL). Workflow was slow, insights were limited to what I could visualize in a BI tool.

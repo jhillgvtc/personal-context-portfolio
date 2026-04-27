@@ -14,6 +14,25 @@ Build a stable foundation of demonstrated value, generate signal that leadership
 
 Unique value that nobody else at GVTC delivers: AI-powered insights from customer data that drive real business decisions. The churn model, the growth analysis, the Ping Marketing launch metrics. Tangible, measurable contributions that make his transition easier.
 
+## Q2 Concrete Deliverables
+
+- 6+ exchanges with data-driven penetration campaigns
+- Executive dashboard (monthly summaries, board insights) -- first summary targeted Fri 5/1
+- 2,198 online RGUs target
+- 2 board presentations
+- HubSpot attribution pipeline scaled to Meyer Ranch + Vintage Oaks
+- Plug-the-Leak baseline locked, cohort comparison ready for 500 Mbps rollout
+
+## Director Readiness Pulse (2026-04-27)
+
+Composite 7.0/10. Average weekly Director score 7.4 over last 6 weeks, flat-to-rising.
+- **Strongest:** AI Reputation 9/10
+- **Weakest:** People Leadership 4/10
+- **Quarterly Operating Model rerun** Jul 6 -- v1 vs v2 diff is the promotion-evidence artifact
+- **Monthly Career Pulse** May 4
+
+Two structural gaps (People Leadership + Visibility) both addressable through one move: proposing the analyst role + archive to JB. The capability that justifies the Director-track narrative is the same capability with no backup plan.
+
 ## Anti-Priorities (What I'm Saying No To)
 
 - Time spent on anything that doesn't move the business. If a recurring task takes a lot of time and isn't effective, automate it with AI or eliminate it.

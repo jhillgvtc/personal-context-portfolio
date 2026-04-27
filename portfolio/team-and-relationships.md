@@ -36,6 +36,14 @@ This is the team driving customer growth strategy. We meet regularly.
 | Spencer | Web Manager | Manages website and is admin on the ecommerce platform (which I'm responsible for converting through). |
 | Jason Forsberg | Construction Engineering Manager (Network) | Close friend. Different department but a trusted sounding board. |
 
+## Recurring Internal Stakeholders (Cross-Department)
+
+| Person | Role | Notes |
+|--------|------|-------|
+| Alex Pina | PMO | Owns the 500 Mbps upgrade rollout. Recurring requestor for Plug-the-Leak churn baselines. |
+| Megan Darlington | HubSpot operations / cart abandon workflow owner | Counterpart on workflow dormancy diagnosis. |
+| Brandy | Retention team lead | Save-rate work is about her team -- frame analyses carefully. |
+
 ## Key External Relationships
 
 | Contact | Company/Role | Notes |
