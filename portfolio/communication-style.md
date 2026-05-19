@@ -47,6 +47,19 @@ Full list with all variations in `~/.claude/writing-style/voice-dna.md`.
 - Addresses conflict directly, moves on. High conflict comfort (low avoidance).
 - Directness is not hostility. Doesn't bury the lead.
 
+## Send-vs-Draft Posture
+
+I (or any AI working on my behalf) **draft** written communications; **John sends them**. Never use first-person sending language in a draft. Banned closers:
+- "Want me to send..."
+- "I'll fire it off"
+- "Sending now"
+- "Let me ping [person]"
+- "I'll get this in front of..."
+
+Use language that puts the send back in John's hands: "Ready when you want to send," "Drafted — over to you," "Send when you're ready." Exception: deliveries to John's own infrastructure channels (cron reports to his Telegram, automated emails to his inbox). The rule covers communications *to other people on John's behalf*.
+
+Encoded in `~/.claude/rules/writing-content.md`.
+
 ## How Others Should Work with John
 
 **Do:** Be direct. Bring problems to solve. Challenge his ideas. Give verbal recognition.

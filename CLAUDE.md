@@ -22,10 +22,13 @@ wiring/
 
 ## Maintenance
 
-- `current-projects.md` and `goals-and-priorities.md` change most often (monthly review)
-- `identity.md` stays in sync with `~/.claude/IDENTITY.md` (source of truth is Obsidian vault)
-- `communication-style.md` stays in sync with `~/.claude/writing-style/voice-dna.md`
-- `decision-log.md` -- add entries after significant decisions
+- Run `REFRESH-PLAYBOOK.md` at root every other Monday — 15-min checklist that walks the state files and pushes the diff.
+- `now.md` is the weekly state file — refresh every Monday (5 min).
+- `current-projects.md`, `goals-and-priorities.md`, `team-and-relationships.md`, `tools-and-systems.md` are biweekly state files.
+- `decision-log.md`, `identity.md`, `role-and-responsibilities.md`, `communication-style.md`, `preferences-and-constraints.md`, `domain-knowledge.md` are pattern files — quarterly scan.
+- `identity.md` stays in sync with `~/.claude/IDENTITY.md` (source of truth is Obsidian vault).
+- `communication-style.md` stays in sync with `~/.claude/writing-style/voice-dna.md`.
+- `decision-log.md` is append-only — add entries after significant decisions.
 
 ## Key Principle
 

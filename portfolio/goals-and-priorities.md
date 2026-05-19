@@ -14,24 +14,22 @@ Build a stable foundation of demonstrated value, generate signal that leadership
 
 Unique value that nobody else at GVTC delivers: AI-powered insights from customer data that drive real business decisions. The churn model, the growth analysis, the Ping Marketing launch metrics. Tangible, measurable contributions that make his transition easier.
 
-## Q2 Concrete Deliverables
+## Q2 Concrete Deliverables (Status)
 
-- 6+ exchanges with data-driven penetration campaigns
-- Executive dashboard (monthly summaries, board insights) -- first summary targeted Fri 5/1
-- 2,198 online RGUs target
-- 2 board presentations
-- HubSpot attribution pipeline scaled to Meyer Ranch + Vintage Oaks
-- Plug-the-Leak baseline locked, cohort comparison ready for 500 Mbps rollout
+- 6+ exchanges with data-driven penetration campaigns — Meyer Ranch + Vintage Oaks live; Granite Shoals + Johnson City + Mission Hills edge-outs in flight
+- Executive summaries to JB — first summary shipped 5/1, cadence forming
+- 2,198 online RGUs target — Q2 tracking
+- 2 board presentations — in build
+- HubSpot attribution pipeline — MultiGig 2026-PTF MVP shipped, Meyer Ranch + Vintage Oaks running
+- Plug-the-Leak baseline locked at 8.81% TTM permanent disconnect — cohort comparison ready for each rollout
+- CallRail bill audit shipped, $1,605–$2,000/yr savings identified pending Maria reply
+- Dept restructure peer memos drafted, JB three-way working session pending
 
-## Director Readiness Pulse (2026-04-27)
+## Director Readiness Pulse
 
-Composite 7.0/10. Average weekly Director score 7.4 over last 6 weeks, flat-to-rising.
-- **Strongest:** AI Reputation 9/10
-- **Weakest:** People Leadership 4/10
-- **Quarterly Operating Model rerun** Jul 6 -- v1 vs v2 diff is the promotion-evidence artifact
-- **Monthly Career Pulse** May 4
+Canonical source is the `career` skill output (last pulse 2026-04-27 at composite 7.0/10, strongest AI Reputation 9/10, weakest People Leadership 4/10). Monthly career pulse and quarterly operating-model rerun (next 2026-07-06) are the promotion-evidence cadence — re-run there rather than re-citing 4/27 numbers from this file.
 
-Two structural gaps (People Leadership + Visibility) both addressable through one move: proposing the analyst role + archive to JB. The capability that justifies the Director-track narrative is the same capability with no backup plan.
+Structural gap pattern: People Leadership + Visibility both addressable through the analyst role + archive move to JB. The capability that justifies the Director-track narrative is the same capability with no backup plan. JB confirmed the Director track 2026-04-30; that may have shifted what evidence the move is supposed to produce — sanity check before any further drafting.
 
 ## Anti-Priorities (What I'm Saying No To)
 

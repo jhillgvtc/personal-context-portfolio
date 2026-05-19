@@ -45,7 +45,7 @@ Point a filesystem MCP server at the `portfolio/` directory to make all files av
     "args": ["/c", "npx", "-y", "@anthropic-ai/mcp-filesystem"],
     "env": {},
     "allowedDirectories": [
-      "C:/Users/john.hill/Claude-Projects/personal-context-portfolio/portfolio"
+      "C:/Users/john.hill/Claude-Projects/3-resources/personal-context/portfolio"
     ]
   }
 }
@@ -59,12 +59,22 @@ For agents like Atlas/OpenClaw, include relevant portfolio sections in the agent
 
 ## Keeping It Fresh
 
-| File | Review Cadence | Trigger |
-|------|---------------|---------|
-| current-projects.md | Monthly | When projects start/complete |
-| goals-and-priorities.md | Quarterly | At quarter boundaries |
-| team-and-relationships.md | As needed | When org changes happen |
-| decision-log.md | As needed | After significant decisions |
-| Everything else | Quarterly | Quick scan for accuracy |
+The state vs pattern split (from the 5/7 decision-log entry): state-heavy files decay in 2-3 weeks, pattern-heavy files hold for a quarter.
+
+| File | Type | Review Cadence | Trigger |
+|------|------|---------------|---------|
+| now.md | State | Weekly (Monday) | Always |
+| current-projects.md | State | Biweekly | Projects start/complete |
+| goals-and-priorities.md | State | Biweekly | Quarter boundaries |
+| team-and-relationships.md | State | Biweekly | Org changes |
+| tools-and-systems.md | State | Biweekly | New MCP / tool retirement |
+| decision-log.md | Pattern | Append-only | After significant decisions |
+| identity.md | Pattern | Quarterly | Life events |
+| role-and-responsibilities.md | Pattern | Quarterly | Role/title change |
+| communication-style.md | Pattern | Quarterly | New voice rule |
+| preferences-and-constraints.md | Pattern | Quarterly | Schedule change |
+| domain-knowledge.md | Pattern | Quarterly | New domain |
+
+**Refresh ritual:** run `REFRESH-PLAYBOOK.md` at the personal-context root every other Monday. 15-min checklist that walks the state files and commits + pushes the diff to `github.com/jhillgvtc/personal-context-portfolio`.
 
 Run `/compile-identity` to refresh identity.md from the Obsidian vault source of truth.

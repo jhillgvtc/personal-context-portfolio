@@ -1,7 +1,11 @@
 # Role and Responsibilities
 
+*Last updated: 2026-05-19*
+
 ## Title
-Manager, Ecommerce and Communications -- GVTC Communications
+Manager, Ecommerce and Communications -- GVTC Communications.
+
+*Proposed (not final) under the 2026 JB restructure: Director of Acquisition & Analytics. Day-to-day operates under current title; restructure framing only applies to org/career artifacts.*
 
 ## How I Spend My Time
 
@@ -31,8 +35,8 @@ Manager, Ecommerce and Communications -- GVTC Communications
 
 ## Direct Reports
 
-- **Bree (Breanne)** -- Senior Communications Coordinator. Manages all traditional, internal, and external corporate communications.
-- **Misty** -- Digital Strategist. Manages organic social, online reviews, customer sentiment, inbound social communications, and vendor coordination for paid social.
+- **Brianne** -- Senior Communications Coordinator. Manages all traditional, internal, and external corporate communications.
+- **Misti Garrett** -- Digital Strategist. Manages organic social, online reviews, customer sentiment, inbound social communications, and vendor coordination for paid social.
 
 ## Decision Authority
 
@@ -44,7 +48,7 @@ Manager, Ecommerce and Communications -- GVTC Communications
 - Tool adoption for my own workflow (Claude Code, AI tools)
 
 **Needs sign-off:**
-- Major vendor contracts (like Ping Marketing launch)
+- Major vendor contracts (like the Ping launch)
 - Budget increases beyond allocated amounts
 - Anything that touches brand positioning or public messaging strategy
-- Organizational or headcount changes
+- Organizational or headcount changes (including the proposed Marble Falls Market Development Coordinator as the first A&A hire)

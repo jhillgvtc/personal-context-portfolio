@@ -4,7 +4,7 @@
 
 - **Mornings (7-11 AM):** Protected deep work time. No meetings if possible. This is when the best thinking happens.
 - **Afternoons:** Meetings, communications, collaborative work.
-- **5 PM - 8 PM:** Present with Teddy (18-month-old daughter). Non-negotiable family time.
+- **5 PM - 8 PM:** Present with Teddy (daughter, born 2024-10-04). Non-negotiable family time.
 - **Weekends:** Family time. No work unless something is genuinely on fire.
 - **Email:** Check in the morning, then stay out of it. Protect focus time.
 

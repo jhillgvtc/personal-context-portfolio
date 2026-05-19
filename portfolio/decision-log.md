@@ -56,6 +56,43 @@
 
 **Why:** Career pulse came in at 7.0/10. Two structural gaps (People Leadership 4/10, Visibility) both close with one move: proposing the analyst role + archive to JB.
 
+### Portfolio Split -- State vs Pattern (2026-05-07)
+
+**Situation:** The 4/27 biweekly portfolio refresh flagged a decay-rate mismatch. State-heavy files (current-projects, goals, tools) went stale in 24 days because four major projects spun up. Pattern-heavy files (decision-log, communication-style, principles) aged fine. The biweekly cadence was correct for state, overkill for pattern.
+
+**What I decided:** Add `now.md` -- a state-heavy weekly file covering open questions, recent reading, and loading-up decisions. Pattern-heavy files move to quarterly refresh. Biweekly cadence becomes the experiment, not the default.
+
+**Why:** A portable identity portfolio that tries to be a snapshot of state decays in two weeks. Only the parts that capture pattern age well. Different decay rates need different cadences -- one ritual can't cover both without going stale or burning cycles.
+
+**Test:** Two refreshes from now (~5/21), decide whether to retire the biweekly cadence entirely, keep it as the quarterly forcing function for pattern files, or fold the pattern files into a different review (annual operating-model rerun).
+
+### Verify Inputs Before Building — Promoted to Rule (2026-05-15)
+
+**Situation:** Three back-to-back incidents in one week clustered around the same posture failure:
+1. **5/14** — Built a Cybertruck affordability model on a 6.5% loan rate placeholder + an assumed-active $7,500 federal EV credit. Firecrawl primary-source pulls returned 4.99%/5.25% from RBFCU's real rate page and surfaced that the EV credit had ended Sept 30, 2025 under OBBBA Public Law 119-21 (replaced by a smaller loan-interest deduction). Net effect: ~$70/mo from the rate, ~$110/mo penalty from the lost credit. Recommendation flipped from "close but doesn't fit" to "doesn't fit at all."
+2. **5/15** — Health insurance consolidation request: dictated "Cigna." Workspace evidence (filled forms, member IDs, insurance-profile skill) pointed to SISCO Benefits. Whisper Flow had misheard "SISCO" as "Cigna." Caught in planning, before building a Cigna-themed folder and memory entries that would have compounded across future sessions.
+3. **5/15** — GVTC Arlo bundle SKU over-count. v1 cohort sizing keyed to parent CatalogID put 1,488 500 Mbps customers into the "1 Gig + Arlo" bucket (4x over-statement). Separately, the "Premium Home WiFi" line was proposed as a voluntary attach signal, but 99.5% of those lines were bundled-in defaults, not behavioral choices.
+
+**What I decided:** Promoted the pattern to `~/.claude/rules/verify-inputs-before-building.md`. The reflex: when taking an input that will drive a recommendation, ask three questions before treating it as load-bearing — where did this come from, what's the primary source, have I checked it against the primary source in this conversation.
+
+**Why:** Three incidents in one week with the same failure mode = systemic, not anecdotal. The promotion threshold from `~/.claude/rules/feedback-as-signal.md` fired exactly as intended.
+
+### Peer-Memo Register Rewrite (2026-05-14)
+
+**Situation:** Restructure proposal memo to Maria and Spencer was originally drafted in the same register as memos that go *up* to JB (frame, contrast, "why this is the right call"). That register reads as politicking when sent sideways.
+
+**What I decided:** Rewrote as a read-aloud, peer-facing register. Dropped "what they said vs true" contrast framing. Neutralized names. No "private-reply appendix." Pulled "Why Director Tier" entirely after LLM Council pressure-tested it.
+
+**Why:** Co-presented documents land different than directional memos. Naming the bundle problem doesn't dissolve it — cutting does. Memory entry: `feedback_co_presented_doc_framing.md`.
+
+### Maria's Structure Proposal — Hold the Lines (2026-05-13)
+
+**Situation:** Maria asked JB for an analyst + a HubSpot Specialist on her side. Both roles would hollow out John's Acquisition & Analytics scope under the proposed restructure.
+
+**What I decided:** Hold the lines on A&A scope. Don't pre-stage org transitions or rewrite reporting until JB formalizes the restructure — treat all direct reports identically under the current org chart (memory `feedback_no_pre_staging_org_transitions.md`).
+
+**Why:** If A&A becomes a real Director seat, it needs the analyst and the HubSpot capability to operate. Conceding either before the restructure formalizes makes the seat smaller than it needs to be.
+
 ### Going All-In on Claude Code
 
 **Situation:** Was building dashboards and reports in Power BI (DAX + SQL). Workflow was slow, insights were limited to what I could visualize in a BI tool.
