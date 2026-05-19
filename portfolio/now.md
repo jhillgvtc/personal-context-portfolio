@@ -31,4 +31,4 @@ Decay rate is high by design. If something here stops being live, cut it. If it 
 - **Three-column line-item budget mapping for the $401K** — John's side done; pending Maria's ~$1.2M and Spencer's small budget for cross-column reconciliation. Realignment one-pager comes after all three are mapped.
 - **CDP scope direction.** Handoff priorities shipped 5/6; next move not chosen.
 - **Build `/red-review` ritual** once LEARNINGS.md accumulates. Todoist 2026-05-13.
-- **Decide cadence on this portfolio refresh.** Today is the experiment. If a Todoist recurring task + `REFRESH-PLAYBOOK.md` makes the next refresh fire on 6/2 without me dragging it, the biweekly is alive. If 6/2 lapses too, retire it and shift to event-driven (org change, new project, post-promotion).
+- **Decide cadence on this portfolio refresh.** Today is the experiment. If a Todoist recurring task + `REFRESH-PLAYBOOK.md` makes the next refresh fire on 6/2 without me dragging it, the biweekly is alive. If 6/1 lapses too, retire it and shift to event-driven (org change, new project, post-promotion).

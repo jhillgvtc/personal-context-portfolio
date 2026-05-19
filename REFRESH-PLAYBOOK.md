@@ -70,4 +70,4 @@ Replacement: event-driven refresh only — org change, new project, post-promoti
 
 ## Promote criteria
 
-If this playbook runs cleanly twice manually (next: 2026-06-02 and 2026-06-16), promote to a `/refresh-context` slash command that runs the playbook autonomously and surfaces a diff for John to approve.
+If this playbook runs cleanly twice manually (next: 2026-06-01 and 2026-06-15), promote to a `/refresh-context` slash command that runs the playbook autonomously and surfaces a diff for John to approve.
