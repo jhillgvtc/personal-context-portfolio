@@ -16,14 +16,16 @@ Unique value that nobody else at GVTC delivers: AI-powered insights from custome
 
 ## Q2 Concrete Deliverables (Status)
 
-- 6+ exchanges with data-driven penetration campaigns — Meyer Ranch + Vintage Oaks live; Granite Shoals + Johnson City + Mission Hills edge-outs in flight
-- Executive summaries to JB — first summary shipped 5/1, cadence forming
+- 6+ exchanges with data-driven penetration campaigns — Meyer Ranch + Vintage Oaks live; Granite Shoals + Johnson City + Mission Hills edge-outs in flight; **Overbuild Impact Model** (4 case studies, 3 scenarios, $1.6M revenue-at-risk) built 5/27, pending JB stress-test
+- Executive summaries to JB — cadence forming; Mission Hills operating plan delivered 5/27
 - 2,198 online RGUs target — Q2 tracking
 - 2 board presentations — in build
-- HubSpot attribution pipeline — MultiGig 2026-PTF MVP shipped, Meyer Ranch + Vintage Oaks running
+- HubSpot attribution pipeline — MultiGig 2026-PTF MVP shipped, Meyer Ranch + Vintage Oaks running; **WiFi Score audit** surfaced 7 contacts in 6.5 years; **16,639 mis-tagged contacts** identified; diagnostic CSV shipped to Anil
 - Plug-the-Leak baseline locked at 8.81% TTM permanent disconnect — cohort comparison ready for each rollout
-- CallRail bill audit shipped, $1,605–$2,000/yr savings identified pending Maria reply
+- CallRail bill audit shipped, $1,605–$2,000/yr savings identified pending Maria reply; **CallRail MCP server** built 5/18
 - Dept restructure peer memos drafted, JB three-way working session pending
+- **Housing Market Momentum** — monthly PTF brief shipped GREEN, telco-domain audit passed
+- **Pressings iOS** — Apple Developer approved, bundle ID + API key set, launch sprint queued
 
 ## Director Readiness Pulse
 
